@@ -11,8 +11,8 @@
     font-size: 90px;
     margin: 0px;
     padding: 200px 80px 0px 80px;
-    color: blueviolet;
-    -webkit-text-stroke: 0.01px white;
+    color: white;
+    -webkit-text-stroke: 0.0001px black;
 }
 
 body {
@@ -23,6 +23,7 @@ body {
     margin: 0px 300px 50px 300px;
     font-size: 25px;
     color: white;
+    background-color: rgba(58, 42, 42, 0.5);
 }
 
 .d-button-first {
@@ -74,6 +75,7 @@ body {
     background-color: gray;
     color: white;
     font-size: x-large;
+    border-color: white;
 }
 
 form {
