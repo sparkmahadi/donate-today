@@ -71,6 +71,9 @@ body {
     width: 7%;
     height: 90px;
     margin: 30px;
+    background-color: gray;
+    color: white;
+    font-size: x-large;
 }
 
 form {
@@ -131,11 +134,13 @@ form {
 
 .bonus-one p {
     margin-bottom: 60px;
+
 }
 
 .article {
     width: 50%;
     font-size: large;
+    margin-right: 100px;
 }
 
 .bonus-two {
@@ -154,6 +159,8 @@ form {
 .article2 {
     width: 50%;
     font-size: large;
+    margin-left: 100px;
+    margin-right: 50px;
 }
 
 .subscribe-section {
