@@ -33,6 +33,15 @@ body {
 
 }
 
+.d-button-second {
+    color: white;
+    background-color: tomato;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 50px;
+    text-decoration: none;
+}
+
 .second-section {
     text-align: center;
     margin: 100px 20px 2px 20px;
@@ -60,4 +69,89 @@ body {
     width: 7%;
     height: 90px;
     margin: 30px;
+}
+
+form {
+    text-align: center;
+}
+
+input {
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid gray;
+    margin: 2px 0px 50px 0px;
+    width: 700px;
+    height: 40px;
+}
+
+.plan {
+    margin-top: 150px;
+    text-align: center;
+    font-size: 180%;
+}
+
+.plan p {
+    font-size: 80%;
+}
+
+.donate-plans {
+    display: flex;
+    margin: 2px 100px;
+    text-align: left;
+}
+
+#food {
+    padding: 10px 30px;
+    margin: 1px 30px;
+    background-color: aqua;
+}
+
+#shelter {
+    padding: 10px 30px;
+    background-color: lightgreen;
+    margin: 1px 30px;
+}
+
+#education {
+    padding: 10px 30px;
+    background-color: lightblue;
+    margin: 1px 30px;
+}
+
+.bonus-one {
+    margin: 150px 50px 2px 100px;
+    display: flex
+}
+
+.bonus-one img {
+    width: 95%;
+    align-content: flex-start;
+}
+
+.bonus-one p {
+    margin-bottom: 60px;
+}
+
+.article {
+    width: 50%;
+    font-size: large;
+}
+
+.bonus-two {
+    margin: 150px 50px 2px 100px;
+    display: flex
+}
+
+.bonus-two img {
+    width: 95%;
+    align-content: flex-start;
+}
+
+.bonus-two p {
+    margin-bottom: 60px;
+}
+
+.article2 {
+    width: 50%;
+    font-size: large;
 }
