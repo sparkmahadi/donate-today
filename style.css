@@ -125,26 +125,6 @@ form {
     margin: 1px 30px;
 }
 
-.bonus-one {
-    margin: 150px 50px 2px 100px;
-    display: flex
-}
-
-.bonus-one img {
-    width: 95%;
-}
-
-.bonus-one p {
-    margin-bottom: 60px;
-
-}
-
-.article {
-    width: 50%;
-    font-size: large;
-    margin-right: 100px;
-}
-
 .bonus-two {
     margin: 150px 50px 2px 100px;
     display: flex
@@ -165,8 +145,32 @@ form {
     margin-right: 50px;
 }
 
-.activities {
+#activity-id {
     text-align: center;
+    background-color: #300f7c;
+    margin: 200px 300px 50px 300px;
+    color: white;
+}
+
+.activities1 {
+    text-align: center;
+    display: flex;
+}
+
+.activities2 {
+    text-align: center;
+    display: flex;
+    margin-top: 80px;
+}
+
+li {
+    font-size: x-large;
+    background-color: #FF5959;
+    margin: 0px 50px;
+}
+
+.half-width {
+    width: 50%;
 }
 
 .subscribe-section {
