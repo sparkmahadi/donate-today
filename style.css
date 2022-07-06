@@ -196,8 +196,10 @@ footer {
 }
 
 footer h1 {
-    font-style: italic;
-    color: rgb(228, 48, 132);
+    font-family: 'Lobster', cursive;
+    color: #FF5959;
 }
 
-footer p {}
+footer p {
+    font-size: small;
+}
