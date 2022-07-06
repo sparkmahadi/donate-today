@@ -186,3 +186,18 @@ form {
     margin: 20px 300px;
     padding: 50px 20px 50px 20px;
 }
+
+footer {
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+    padding: 18px 0px;
+    background-color: rgb(16, 4, 24);
+}
+
+footer h1 {
+    font-style: italic;
+    color: rgb(228, 48, 132);
+}
+
+footer p {}
